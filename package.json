@@ -1,0 +1,28 @@
+{
+  "name": "tmd-mcp-server",
+  "version": "1.0.0",
+  "description": "An MCP server to provide weather data from Thai Meteorological Dept.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zartre/tmd-mcp-server.git"
+  },
+  "keywords": [
+    "mcp",
+    "weather",
+    "thailand"
+  ],
+  "author": "Nathan Yiangsuppanontr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zartre/tmd-mcp-server/issues"
+  },
+  "homepage": "https://github.com/zartre/tmd-mcp-server",
+  "devDependencies": {
+    "@types/node": "^22.15.18",
+    "typescript": "^5.8.3"
+  }
+}
